@@ -1,6 +1,11 @@
+/* this will set the background color for the whole page */
+
 body {
   background-color: #ECEBE4;
 }
+
+/* this will change the color of the header and put a background color to help give contrast */
+
 header {
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
@@ -21,6 +26,8 @@ main {
   text-align: center;
   font-size: 18px;
 }
+/* this will style the lists to be centered as well as the bullet points/numbers */
+
 ol, ul {
   list-style-position: inside;
   font-size: 18px;
@@ -32,6 +39,9 @@ footer {
   padding: 10px;
   color: antiquewhite;
 }
+
+/* this will make the image more round in shape and give it some space */
+
 img {
   border-radius: 30%;
   border: 10px;
