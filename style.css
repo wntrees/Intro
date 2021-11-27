@@ -1,7 +1,7 @@
 /* this will set the background color for the whole page */
 
 body {
-  background-color: #ECEBE4;
+  background-color: whitesmoke;
 }
 
 /* this will change the color of the header and put a background color to help give contrast */
@@ -9,8 +9,8 @@ body {
 header {
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
-  color: antiquewhite;
-  background-color: darkolivegreen;
+  color: black;
+  background-color: darkgray;
   padding: 20px;
 }
 h2 {
@@ -36,9 +36,9 @@ ol, ul {
 footer {
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
-  background-color: darkolivegreen;
+  background-color: lightgray;
   padding: 10px;
-  color: antiquewhite;
+  color: black;
 }
 
 /* this will make the image more round in shape and give it some space */
@@ -51,13 +51,13 @@ img {
 }
 
 nav {
-  color: antiquewhite;
+  color: black;
   font-size: 20px;
 }
 
 /* change the link colors and how the user can interact with them */
 
-a:link { color: lightblue}
-a:visited {color: lightseagreen}
+a:link { color: blue}
+a:visited {color: darkred}
 a:hover {color: black}
 a:active {color: orange}
