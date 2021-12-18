@@ -1,7 +1,7 @@
 /* this will set the background color for the whole page */
 
 body {
-  background-color: whitesmoke;
+  background-color: #f4f4f4;
 }
 
 /* this will change the color of the header and put a background color to help give contrast */
@@ -38,7 +38,7 @@ footer {
   text-align: center;
   background-color: lightgray;
   padding: 10px;
-  color: black;
+  color:#464646;
 }
 
 /* this will make the image more round in shape and give it some space */
@@ -51,7 +51,7 @@ img {
 }
 
 nav {
-  color: black;
+  color: #464646;
   font-size: 20px;
 }
 
